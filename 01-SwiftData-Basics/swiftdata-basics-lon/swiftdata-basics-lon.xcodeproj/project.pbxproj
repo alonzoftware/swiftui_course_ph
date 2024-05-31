@@ -15,6 +15,7 @@
 		9A3BEF682C0955C400514119 /* Sight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A3BEF672C0955C400514119 /* Sight.swift */; };
 		9A3BEF6B2C0956B500514119 /* DestinationListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A3BEF6A2C0956B500514119 /* DestinationListingView.swift */; };
 		9A3BEF6D2C09570C00514119 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A3BEF6C2C09570C00514119 /* EditDestinationView.swift */; };
+		D034D42B2C09FCDB0066088F /* ContentViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = D034D42A2C09FCDB0066088F /* ContentViewBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		9A3BEF672C0955C400514119 /* Sight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sight.swift; sourceTree = "<group>"; };
 		9A3BEF6A2C0956B500514119 /* DestinationListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationListingView.swift; sourceTree = "<group>"; };
 		9A3BEF6C2C09570C00514119 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
+		D034D42A2C09FCDB0066088F /* ContentViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				9A3BEF572C09535300514119 /* ContentView.swift */,
 				9A3BEF592C09535500514119 /* Assets.xcassets */,
 				9A3BEF5B2C09535500514119 /* Preview Content */,
+				D034D42A2C09FCDB0066088F /* ContentViewBasic.swift */,
 			);
 			path = "swiftdata-basics-lon";
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				9A3BEF6D2C09570C00514119 /* EditDestinationView.swift in Sources */,
 				9A3BEF662C09559200514119 /* Destination.swift in Sources */,
 				9A3BEF6B2C0956B500514119 /* DestinationListingView.swift in Sources */,
+				D034D42B2C09FCDB0066088F /* ContentViewBasic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
